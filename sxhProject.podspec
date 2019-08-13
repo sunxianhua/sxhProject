@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-			TODO: 一些描述文字
+			TODO: 一些描述文字测试的文字
                        DESC
 
   s.homepage         = 'https://github.com/sunxianhua/sxhProject'
